@@ -1,12 +1,7 @@
 {
-  "name": "firndebi-frontend",
-  "version": "0.0.1",
+  "name": "frontend",
+  "version": "0.1.0",
   "scripts": {
-    "build": "echo 'build ok'",
-    "test": "echo 'tests ok'",
-    "lint": "echo 'lint ok'"
-  },
-  "devDependencies": {
-    "jest": "^29.0.0"
+    "test": "echo \"No tests\" && exit 0"
   }
 }
